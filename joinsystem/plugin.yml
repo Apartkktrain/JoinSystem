@@ -1,0 +1,6 @@
+name: joinsystem
+main: syouyu\join\Main
+version: 0.0.1
+api: [3.0.0,4.0.0]
+author: syouyu
+website: https://github.com/syoooooooooyu/join.git
